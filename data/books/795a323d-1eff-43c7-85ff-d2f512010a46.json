@@ -1,0 +1,12 @@
+{
+  "id" : "795a323d-1eff-43c7-85ff-d2f512010a46",
+  "title" : "Clean Code",
+  "author" : "Robert C. Martin",
+  "isbn" : "978-0132350884",
+  "genre" : "Software",
+  "publishedYear" : 2008,
+  "price" : 37.99,
+  "version" : 0,
+  "createdAt" : "2026-11-08T04:27:11.104Z",
+  "updatedAt" : "2026-11-08T04:27:11.104Z"
+}
